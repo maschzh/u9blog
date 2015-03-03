@@ -1,0 +1,28 @@
+{
+  "name": "CookApp",
+  "version": "0.0.0",
+  "description": "CookApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maschzh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "bson": "^0.2.15",
+    "connect": "^2.27.0",
+    "cookie": "^0.1.2",
+    "cookie-parser": "^1.3.3",
+    "crypto": "0.0.3",
+    "express": "^4.9.8",
+    "express-session": "^1.9.1",
+    "favicon": "0.0.2",
+    "logger": "0.0.1",
+    "method-override": "^2.3.0",
+    "mongoose": "^3.8.17",
+    "mongoose-session": "0.0.2",
+    "partials": "^0.1.0",
+    "static-favicon": "^2.0.0-alpha"
+  }
+}
